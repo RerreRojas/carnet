@@ -4,7 +4,7 @@ Este proyecto es un componente de Vue.js que genera una representación visual d
 ## Descripción
 
 El componente muestra un documento de identidad con la siguiente información:
-
+```
 *RUN (Rol Único Nacional)
 *Apellidos
 *Nombres
@@ -16,7 +16,7 @@ El componente muestra un documento de identidad con la siguiente información:
 *Fecha de Vencimiento
 *Firma del Titular
 
-
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
